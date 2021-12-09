@@ -1,2 +1,2 @@
 def work():
-    print("Hello World")
+    print("Hello World 1")
